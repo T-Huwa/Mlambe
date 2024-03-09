@@ -117,3 +117,8 @@ body{
 #logo{
     width: 50px;
 }
+
+.active{
+    font-size: 1.5rem;
+    border: 1px solid white;
+}
